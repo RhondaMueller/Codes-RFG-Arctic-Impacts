@@ -11,4 +11,4 @@ This repository contains code to run the analysis done for this paper:
 
 - Fig_3_Mean_clm.py is a sub-script that is needed for Figure_3 to run.
 
-This repository and the scripts contained within were created by Rhonda Müller (rhonda.mueller@uzh.ch)
+This repository and the scripts contained within were created by Rhonda Müller (rhonda.mueller (at) uzh.ch).
