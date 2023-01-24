@@ -9,6 +9,6 @@ This repository contains code to run the analysis done for this paper:
 
 - The ipynb files are structured according to the figure they provide the output to. The underlying data can be obtained from the references of the paper.
 
-- Fig_3_Mean_clm.py is a sub-script that is needed for Figure_3 to run.
+- The .py files are python sub-scripts that are needed for some of the codes to rin (ED Figure 1 and 2 and Figure 3).
 
 This repository and the scripts contained within were created by Rhonda Müller (rhonda.mueller (at) uzh.ch).
