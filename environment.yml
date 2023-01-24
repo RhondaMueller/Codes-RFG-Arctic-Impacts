@@ -1,5 +1,6 @@
 name: py3k
 channels:
+  - anaconda
   - conda-forge
   - defaults
 dependencies:
@@ -26,7 +27,7 @@ dependencies:
   - bzip2=1.0.8=h8ffe710_4
   - ca-certificates=2022.4.26=haa95532_0
   - cartopy=0.18.0=py39h80a4efb_1
-  - certifi=2021.10.8=py39haa95532_2
+  - certifi=2022.6.15=py39haa95532_0
   - cf-units=3.0.1=py39h5d4886f_2
   - cffi=1.15.0=py39h2bbff1b_1
   - cftime=1.6.0=py39h5d4886f_0
@@ -184,6 +185,7 @@ dependencies:
   - rope=0.22.0=pyhd3eb1b0_0
   - rtree=0.9.7=py39h2eaa2aa_1
   - scipy=1.8.0=py39hc0c34ad_1
+  - seaborn=0.11.2=pyhd3eb1b0_0
   - send2trash=1.8.0=pyhd3eb1b0_1
   - setuptools=58.0.4=py39haa95532_0
   - shapely=1.7.1=py39h06580b3_0
@@ -244,9 +246,11 @@ dependencies:
   - zlib=1.2.11=h8cc25b3_4
   - zstd=1.4.9=h6255e5f_0
   - pip:
-    - pyqt5==5.15.6
-    - pyqt5-qt5==5.15.2
-    - pyqt5-sip==12.10.1
-    - pyqtwebengine==5.15.5
-    - pyqtwebengine-qt5==5.15.2
-prefix: C:\Users\rhond\miniconda3\envs\py3k
+      - et-xmlfile==1.1.0
+      - openpyxl==3.0.10
+      - pyqt5==5.15.6
+      - pyqt5-qt5==5.15.2
+      - pyqt5-sip==12.10.1
+      - pyqtwebengine==5.15.5
+      - pyqtwebengine-qt5==5.15.2
+prefix: C:\Users\rhonda\anaconda3\envs\py3k
