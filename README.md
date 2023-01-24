@@ -9,6 +9,6 @@ This repository contains code to run the analysis done for this paper:
 
 - The ipynb files are structured according to the figure they provide the output to. The underlying data can be obtained from the references of the paper.
 
-- The .py files are python sub-scripts that are needed for some of the codes to rin (ED Figure 1 and 2 and Figure 3).
+- The .py files are python sub-scripts that are needed for some of the codes to run (ED Figure 1 and 2 and Figure 3).
 
 This repository and the scripts contained within were created by Rhonda Müller (rhonda.mueller (at) uzh.ch).
