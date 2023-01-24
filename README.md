@@ -17,8 +17,8 @@ This repository contains code to run the analysis done for this paper:
 
 Sources:
 
-Harris, I., Jones, P. D., Osborn, T. L., & Lister, D. H. Updated high-resolution grids of monthly climatic observations – the CRU TS3.10 Dataset. Int. J. Climatol. 34, 623–642 (2014). https://doi.org/10.1002/joc.3711
-Giglio, L., Justice, C., Boschetti, L. & Roy, D. . MCD64A1 MODIS/Terra+Aqua Burned Area Monthly L3 Global 500m SIN Grid V006 [Data set]. NASA EOSDIS Land Processes DAAC. (2015). https://doi.org/10.5067/MODIS/MCD64A1.006
+Harris, I., Jones, P. D., Osborn, T. L., & Lister, D. H. Updated high-resolution grids of monthly climatic observations – the CRU TS3.10 Dataset. Int. J. Climatol. 34, 623–642 (2014). https://doi.org/10.1002/joc.3711 //
+Giglio, L., Justice, C., Boschetti, L. & Roy, D. . MCD64A1 MODIS/Terra+Aqua Burned Area Monthly L3 Global 500m SIN Grid V006 [Data set]. NASA EOSDIS Land Processes DAAC. (2015). https://doi.org/10.5067/MODIS/MCD64A1.006 //
 Obu, J. et al. ESA Permafrost Climate Change Initiative (Permafrost_cci): Permafrost extent for the Northern Hemisphere, v3.0. NERC EDS Centre for Environmental Data Analysis (2021). https://doi:10.5285/6e2091cb0c8b4106921b63cd5357c97c
 
 This repository and the scripts contained within were created by Rhonda Müller (rhonda.mueller (at) uzh.ch).
