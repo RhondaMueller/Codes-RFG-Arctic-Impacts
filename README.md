@@ -15,6 +15,10 @@ This repository contains code to run the analysis done for this paper:
 
 - 20x20.txt are the pre-processed burned are per TXx Tmean data that were generated from a satellite data-driven fire frequency dataset (MCD64) (Gigli0 et al. 2015) and temperature data of the Climatic Research Unit TS4.01 (Harris et al. 2014).
 
+## Instructions
+
+All figures can be replicated by using these codes. As we used netcdf files that extracted for every variable seperately, the index pointing to the wanted variable (in our codes it is usually [0]) might need to be changed when using datasets containing several different variables.
+
 Sources:
 
 Harris, I., Jones, P. D., Osborn, T. L., & Lister, D. H. Updated high-resolution grids of monthly climatic observations – the CRU TS3.10 Dataset. Int. J. Climatol. 34, 623–642 (2014). https://doi.org/10.1002/joc.3711
