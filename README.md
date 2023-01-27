@@ -19,6 +19,8 @@ This repository contains code to run the analysis done for this paper:
 
 All figures can be replicated by using these codes. As we used netcdf files that extracted for every variable seperately, the index pointing to the wanted variable (in our codes it is usually [0]) might need to be changed when using datasets containing several different variables.
 
+These codes run on Python 3.9.7 and were created in Jupyter Notebook which can be installed locally or run from a browser (https://jupyter.org/). The environment with all the used packages is provided in the "environment.yml" file. For instruction on how to install the environment please refer to https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html.
+
 Sources:
 
 Harris, I., Jones, P. D., Osborn, T. L., & Lister, D. H. Updated high-resolution grids of monthly climatic observations – the CRU TS3.10 Dataset. Int. J. Climatol. 34, 623–642 (2014). https://doi.org/10.1002/joc.3711
