@@ -1,4 +1,4 @@
-# Codes - Radiative forcing geoengineering increases Arctic temperature extremes and permafrost thawing
+# Codes - The impact of radiative forcing geoengineering on Arctic temperature extremes, wildfires, and permafrost thawing
 
 ##  File Descriptions
 This repository contains code to run the analysis done for this paper:
